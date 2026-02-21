@@ -1,23 +1,23 @@
-📌 DNS Spoofing Detection Tool
+ DNS Spoofing Detection Tool:
 
-This project detects possible DNS spoofing by comparing public DNS resolution with local DNS responses.
+  This project detects possible DNS spoofing by comparing public DNS resolution with local DNS responses.
 
 Features
 
-Detects DNS mismatches
+. Detects DNS mismatches
 
-Beginner-friendly Python project
+. Beginner-friendly Python project
 
-Useful for cybersecurity learners
+. Useful for cybersecurity learners
 
-Tech Stack
+Tech Stack:
 
-Python
+. Python
 
-dnspython
+. dnspython
 
-socket
+. socket
 
-Run
-pip install dnspython
-python dns_spoof_detector.py
+Run:
+  pip install dnspython
+  python dns_spoof_detector.py
